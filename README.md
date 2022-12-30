@@ -1,1 +1,1 @@
-# English-ABC-to-Myanglish-ABC
+# English-ABC-to-Myanmar-ABC
