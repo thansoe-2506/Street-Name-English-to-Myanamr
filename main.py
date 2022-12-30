@@ -1,5 +1,4 @@
 '''
-      Nickname: Bee
       Date: Dec 29, 2022
 '''
 
